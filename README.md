@@ -1,2 +1,2 @@
 # Python
-This repo basically contains some of the works that exist in my private repo
+This repository solely holds one purpose of open-sourcing some of the works from my private projects and repository.
